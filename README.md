@@ -6,5 +6,5 @@
 
 # Практические работы:
 
-## Практическая работа 1 - [Практика1](https://colab.research.google.com/drive/1hhY8c2kcZOTbC5AR2JwprqDSMS7mMgTt)
-## Практическая работа 2 - [Практика2](https://colab.research.google.com/drive/1adtpDYXVW-bdG9jWpnLzkv2ZM4HxC5YI)
+## Практическая работа 1 - [Практика1](https://github.com/Archangel15520/AZSII-REPO/tree/main/Practic%201)
+## Практическая работа 2 - [Практика2](https://github.com/Archangel15520/AZSII-REPO/tree/main/Practic%202)

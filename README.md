@@ -8,3 +8,4 @@
 
 ## Практическая работа 1 - [Практика1](https://github.com/Archangel15520/AZSII-REPO/tree/main/Practic%201)
 ## Практическая работа 2 - [Практика2](https://github.com/Archangel15520/AZSII-REPO/tree/main/Practic%202)
+## Практическая работа 3 - [Практика3](https://github.com/Archangel15520/AZSII-REPO/tree/main/Practic%203)

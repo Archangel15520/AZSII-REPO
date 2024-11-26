@@ -10,5 +10,6 @@
 ## Практическая работа 2 - [Практика2](https://github.com/Archangel15520/AZSII-REPO/tree/main/Practic%202)
 ## Практическая работа 3 - [Практика3](https://github.com/Archangel15520/AZSII-REPO/tree/main/Practic%203)
 ## Практическая работа 4 - [Практика4](https://github.com/Archangel15520/AZSII-REPO/tree/main/Practic%204)
+## Практическая работа 5 - [Практика5](https://github.com/Archangel15520/AZSII-REPO/tree/main/Practic%205)
 
 ## Лабораторная работа 1 - [Лаб1](https://github.com/Archangel15520/AZSII-REPO/tree/main/Lab%201)
